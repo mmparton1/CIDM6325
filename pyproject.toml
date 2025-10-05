@@ -17,3 +17,11 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://github.com/mmparton1/CIDM6325"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["*"]
+
+
+
+
